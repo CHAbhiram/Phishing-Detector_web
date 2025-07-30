@@ -11,8 +11,6 @@
 4. [Installation & Setup](#installation-and-setup)
 5. [Usage](#usage)
 6. [Dependencies](#dependencies)
-7. [License](#license)
-
 ---
 
 ## ✨ Overview
