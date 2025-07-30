@@ -1,0 +1,22 @@
+Content-Type: multipart/mixed; boundary="===============5973670527296864415=="
+MIME-Version: 1.0
+From: qydlqcws-iacfym@issues.apache.org
+To: xrh@spamassassin.apache.org
+Subject: [Bug 5780] URI processing turns uuencoded strings into http URI's which then causes FPs
+Date: Tue, 05 Aug 2008 15:31:03 -0800
+
+--===============5973670527296864415==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+aHR0cDovL2lzc3Vlcy5hcGFjaGUub3JnL1NwYW1Bc3Nhc3Npbi9zaG93X2J1Zy5jZ2k/aWQ9NTc4
+MAoKCndyenpwdkBzaWRuZXkuY29tIGNoYW5nZWQ6CgogICAgICAgICAgIFdoYXQgICAgfFJlbW92
+ZWQgICAgICAgICAgICAgICAgICAgICB8QWRkZWQKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpPdGhlckJ1
+Z3NEZXBlbmRpbmdPfCAgICAgICAgICAgICAgICAgICAgICAgICAgICB8NTgxMwogICAgICAgICAg
+ICAgIG5UaGlzfCAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CgoKCgoKCi0tLS0tLS0gWW91
+IGFyZSByZWNlaXZpbmcgdGhpcyBtYWlsIGJlY2F1c2U6IC0tLS0tLS0KWW91IGFyZSB0aGUgYXNz
+aWduZWUgZm9yIHRoZSBidWcsIG9yIGFyZSB3YXRjaGluZyB0aGUgYXNzaWduZWUuCgoK
+
+--===============5973670527296864415==--
